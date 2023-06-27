@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cd474687.css",
+    "main.js": "/static/js/main.047e3789.js",
+    "static/media/ImpactT.ttf": "/static/media/ImpactT.76f6dfdeb2b4bcd990f2.ttf",
+    "index.html": "/index.html",
+    "main.cd474687.css.map": "/static/css/main.cd474687.css.map",
+    "main.047e3789.js.map": "/static/js/main.047e3789.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd474687.css",
+    "static/js/main.047e3789.js"
+  ]
+}
